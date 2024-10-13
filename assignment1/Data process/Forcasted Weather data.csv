@@ -1,4 +1,4 @@
-,ts,Maximum temperature,Mean wind direction,Accumulated percipitation,Weather forecast for the relativehumidity amount  at Bornholm | 9F7P/00/00/MET-Norway/forecast/relative_humidity_2m | 128254,Mean wind speed,Wind Speed Y Direction,Solar Shortwave Flux,Minimum temperature,Wind Speed X Direction,Mean temperature
+,ts,Maximum temperature,Mean wind direction,Accumulated percipitation,Mean humidity,Mean wind speed,Wind Speed Y Direction,Solar Shortwave Flux,Minimum temperature,Wind Speed X Direction,Mean temperature
 0,2022-01-02 09:00:00,279.84314,235.57857,0.0,1.0000069,5.813893,3.2802238,0.0,279.84314,4.8006916,279.84314
 1,2022-01-02 10:00:00,279.87286,235.08603,0.024658203,1.000007,5.4043736,3.08807,20640.0,279.68402,4.435625,279.68396
 2,2022-01-02 11:00:00,279.88293,243.8361,0.057128906,1.0000069,5.612103,2.4682293,45728.0,279.68176,5.0402966,279.86313
